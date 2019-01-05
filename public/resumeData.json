@@ -1,0 +1,101 @@
+{
+  "main": {
+    "name":"Valerii.P",
+    "occupation":"",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"Software developer with more than 10 years experience. Start C/C++ programming when I was 10, then started writing Javascripts when I was 14.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "SJkunai@outlook.com",
+    "address":{
+      "street":"",
+      "city":"Ukraine",
+      "state":"",
+      "zip": ""
+    },
+    "website": "",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/Sjhumili",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Very sensitive to new things. I willing to use New frameworks in developes. I prefre doing everything with High Speed and Excellent quality",
+    "education":[
+      {
+        "school":"Bachelor of Applied Science (B.A.Sc.) | National Technical University of Ukraine 'Igor Sikorsky Kyiv Polytechnic Institute'",
+        "graduated":"2013 - 2017",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Upwork",
+        "title":"Senior FullStack Developer",
+        "years":"Dec 2018 - Present"
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJs",
+        "level":"90%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"80%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "image":"MRkitchen.png",
+        "url":"https://www.mrkitchens.ca"
+      },
+      {
+        "image":"canadian-wanderlust.png",
+        "url":"https://www.thebigcomfybookshop.co.uk/"
+      },
+      {
+        "image":"fury-fighting-gear.png",
+        "url":"https://www.thebeautifulgame.org.uk/"
+      },
+      {
+        "image":"original-thai-food.png",
+        "url":"http://spicerbags.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Good Job. Faster than expected. I'm willing to hire him again",
+        "user":"Wadenswil"
+      }
+    ]
+  }
+}
