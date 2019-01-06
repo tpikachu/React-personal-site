@@ -78,12 +78,10 @@ class Contact extends Component {
             <aside className="four columns footer-widgets">
                <div className="widget widget_contact">
 
-					   <h4>Address and Phone</h4>
+					   <h4>Address</h4>
 					   <p className="address">
 						   {name}<br />
-						   {street} <br />
-						   {city}, {state} {zip}<br />
-						   <span>{phone}</span>
+						   {city}<br />
 					   </p>
 				   </div>
 
@@ -96,7 +94,6 @@ class Contact extends Component {
                         Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum
                         <a href="#">http://t.co/CGIrdxIlI3</a>
                         </span>
-                        <b><a href="#">2 Days Ago</a></b>
                      </li>
                      <li>
                         <span>
@@ -104,7 +101,6 @@ class Contact extends Component {
                         eaque ipsa quae ab illo inventore veritatis et quasi
                         <a href="#">http://t.co/CGIrdxIlI3</a>
                         </span>
-                        <b><a href="#">3 Days Ago</a></b>
                      </li>
                   </ul>
 		         </div>
