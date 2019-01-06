@@ -57,6 +57,10 @@
         "level":"80%"
       },
       {
+        "name":"MYSQL/other sql",
+        "level":"80%"
+      },
+      {
         "name":"CSS",
         "level":"70%"
       },
