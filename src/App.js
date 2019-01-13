@@ -9,7 +9,7 @@ import Resume from './Components/Resume';
 import Contact from './Components/Contact';
 import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
-
+import ParticleBackground from './Components/particlebackground';
 class App extends Component {
 
   constructor(props){
@@ -45,7 +45,9 @@ class App extends Component {
 
   render() {
     return (
+      
       <div className="App">
+        <ParticleBackground/>
         <Header data={this.state.resumeData.main}/>
         <About data={this.state.resumeData.main}/>
         <Resume data={this.state.resumeData.resume}/>
