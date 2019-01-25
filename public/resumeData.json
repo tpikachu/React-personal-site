@@ -1,6 +1,6 @@
 {
   "main": {
-    "name":"Valerii.P",
+    "name":"Your name",
     "occupation":"",
     "description":"",
     "image":"profilepic.jpg",
@@ -9,7 +9,7 @@
     "email": "SJkunai@outlook.com",
     "address":{
       "street":"",
-      "city":"Ukraine",
+      "city":"Moscow",
       "state":"",
       "zip": ""
     },
